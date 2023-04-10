@@ -1,3 +1,4 @@
 # experimental-1
 experimental 
-Converting Arabic history into English and vice versa 
+Converting the date from the Arabic date to the Gregorian and vice versa 
+
